@@ -1,0 +1,5 @@
+# Ignora i file temporanei di Excel
+~$*
+*.xlsb
+*.xlsx~
+*.xlsm~
